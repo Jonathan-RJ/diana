@@ -16,3 +16,6 @@ color.diff=auto
 git remote add origin https://github.com/Jonathan-RJ/diana.git
 
 git push -u origin main
+
+¿Hola que hace, cómo les va terricolas..?
+Por eso weeeey
