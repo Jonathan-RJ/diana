@@ -1,0 +1,18 @@
+git config
+
+git config --global user.name "John Doe"
+
+git config --global user.email johndoe@example.com
+
+git config --list  (
+user.name=John Doe
+user.email=johndoe@example.com
+color.status=auto
+color.branch=auto
+color.interactive=auto
+color.diff=auto
+)
+
+git remote add origin https://github.com/Jonathan-RJ/diana.git
+
+git push -u origin main
